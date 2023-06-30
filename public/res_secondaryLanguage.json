@@ -92,7 +92,7 @@
           "images/portfolio/photography/odoo5.png",
           "images/portfolio/photography/odoo6.png"
         ],
-        "url": "https://github.com",
+        "url": "",
         "technologies": [
           {
             "class": "devicon-javascript-plain colored",
