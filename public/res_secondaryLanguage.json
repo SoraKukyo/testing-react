@@ -1,0 +1,276 @@
+{
+    "basic_info": {
+      "description_header": "សួស្តី",
+      "description": "👋 ខ្ញុំឈ្មោះផល្លា បូរម៉ី។ ក្នុងនាមជាវិស្វករផ្នែកបច្ចេកវិទ្យា ខ្ញុំមានសមត្ថភាពពិសេសក្នុងការនាំយកគំនិតទៅកាន់ជីវិតទាំងផ្នែក Frontend និងផ្នែក Backend។ ជាមួយនឹងមូលដ្ឋានគ្រឹះដ៏រឹងមាំក្នុងការអភិវឌ្ឍន៍កម្មវិធី ខ្ញុំមានជំនាញក្នុងការបង្កើតកម្មវិធីដ៏រឹងមាំ ធ្វើមាត្រដ្ឋានបាន និងងាយស្រួលប្រើ ដែលបំពេញតម្រូវការរបស់អតិថិជន និងអ្នកប្រើប្រាស់ដូចគ្នា។",
+      "section_name": {
+        "about": "អំពី​ខ្ញុំ",
+        "projects": "ការងារ",
+        "skills": "ជំនាញ",
+        "experience": "បទពិសោធន៍"
+      }
+    },
+    "projects": [
+      {
+        "title": "Fullstack Javascript Framework foundation",
+        "startDate": "2020",
+        "description": "កម្មវិធីទាំងនេះតំណាងឱ្យបណ្តុំនៃដំណើររបស់ខ្ញុំក្នុងនាមជាអ្នកបង្កើតកម្មវិធី ដោយចាប់ផ្តើមពីឆ្នាំដំបូងរបស់ខ្ញុំជានិស្សិត។ ពួកគេបង្ហាញពីការស្វែងរកចំណេះដឹងឥតឈប់ឈររបស់ខ្ញុំ ដោយសារខ្ញុំបានពង្រឹងជំនាញរបស់ខ្ញុំតាមរយៈការរួមបញ្ចូលគ្នានៃមេរៀន YouTube វគ្គសិក្សា Udemy និងការសិក្សាដោយយកចិត្តទុកដាក់លើសៀវភៅអភិវឌ្ឍន៍កម្មវិធី។ កម្មវិធីនីមួយៗបង្កប់នូវគោលគំនិតជាមូលដ្ឋាននៅក្នុង JavaScript frontend និង backend frameworks ដែលបង្ហាញពីការប្តេជ្ញាចិត្តរបស់ខ្ញុំក្នុងការធ្វើជាម្ចាស់លើគោលការណ៍ស្នូលនៃការអភិវឌ្ឍន៍គេហទំព័រ។",
+        "images": [
+          "images/portfolio/animal-shelter/airbnb3.png",
+          "images/portfolio/animal-shelter/airbnb2.png",
+          "images/portfolio/animal-shelter/airbnb1.png",
+          "images/portfolio/animal-shelter/netflix.png",
+          "images/portfolio/animal-shelter/amazon.png",
+          "images/portfolio/animal-shelter/tetris.png",
+          "images/portfolio/animal-shelter/trello.png",
+          "images/portfolio/animal-shelter/todoList1.png",
+          "images/portfolio/animal-shelter/todoList2.png",
+          "images/portfolio/animal-shelter/natour1.jpg",
+          "images/portfolio/animal-shelter/natour2.png",
+          "images/portfolio/animal-shelter/natour3.png"
+        ],
+        "url": "https://github.com/SoraKukyo/fullstack-js-learning",  
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-css3-plain colored",
+            "name": "CSS3"
+          },
+          {
+            "class": "devicon-typescript-plain colored",
+            "name": "Typescript"
+          },
+          {
+            "class": "devicon-javascript-plain colored",
+            "name": "Javascript"
+          },
+          {
+            "class": "devicon-react-original colored",
+            "name": "React JS"
+          },
+          {
+            "class": "devicon-vuejs-plain colored",
+            "name": "Vue JS"
+          },
+          {
+            "class": "devicon-bootstrap-plain colored",
+            "name": "Bootstrap"
+          },
+          {
+            "class": "devicon-tailwindcss-plain colored",
+            "name": "Tailwind CSS"
+          },
+          {
+            "class": "devicon-nodejs-plain colored",
+            "name": "Node JS"
+          },
+          {
+            "class": "devicon-express-original colored",
+            "name": "EXPRESS JS"
+          },
+          {
+            "class": "devicon-mongodb-plain colored",
+            "name": "MongoDB"
+          },
+          {
+            "class": "devicon-postgresql-plain colored",
+            "name": "Postgresql"
+          }
+        ]
+      },
+      {
+        "title": "Odoo ERP System",
+        "startDate": "2021",
+        "description": "ខ្ញុំបានគ្រប់គ្រង និងទទួលយកតួនាទីជាអ្នកដឹកនាំដោយជោគជ័យនៅក្នុងគម្រោងដ៏សំខាន់បំផុតមួយនៃដំណើរអាជីពរបស់ខ្ញុំ។ ទំនួលខុសត្រូវរបស់ខ្ញុំរួមមានការត្រួតពិនិត្យការអភិវឌ្ឍន៍ប្រព័ន្ធ ERP ដ៏ច្រើន និងរៀបចំការធ្វើ Migration នៃកំណត់ត្រាជាង 1 លាននៅទូទាំងប្រហែល 10 ក្រុមហ៊ុន។ គម្រោង​នេះ​ឈរ​ជា​ជោគជ័យ​គួរ​ឱ្យ​កត់​សម្គាល់ ដោយ​ចាត់​ទុក​ថា​ការ​ប៉ុនប៉ង​មុន​ៗ​ដើម្បី​សម្រេច​បាន​ជួប​បរាជ័យ។",
+        "images": [
+          "images/portfolio/photography/odoo1.jpg",
+          "images/portfolio/photography/odoo2.png",
+          "images/portfolio/photography/odoo3.png",
+          "images/portfolio/photography/odoo4.jpg",
+          "images/portfolio/photography/odoo5.png",
+          "images/portfolio/photography/odoo6.png"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain colored",
+            "name": "Javascript"
+          },
+          {
+            "class": "devicon-bootstrap-plain colored",
+            "name": "Bootstrap"
+          },
+          {
+            "class": "devicon-python-plain colored",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-nginx-original colored",
+            "name": "Nginx"
+          },
+          {
+            "class": "devicon-postgresql-plain colored",
+            "name": "Postgresql"
+          }
+        ]
+      },
+      {
+        "title": "A Microservices Ticket System With Fullstack Javascript",
+        "startDate": "2023",
+        "description": "គម្រោងនេះផ្តោតលើការស្ទាត់ជំនាញស្ថាបត្យកម្មនៃកម្មវិធីធំ និងអាចធ្វើមាត្រដ្ឋានបានតាមរយៈសេវាកម្មមីក្រូ។ វារួមបញ្ចូលការដាក់ពង្រាយកម្មវិធីពហុសេវាកម្មទៅកាន់ Cloud ដោយប្រើ Docker និង Kubernetes ការដោះស្រាយបញ្ហាប្រឈមស្របគ្នានៅក្នុងប្រព័ន្ធចែកចាយ និងការប្រើប្រាស់ជំនាញ JavaScript ដើម្បីបង្កើតកម្មវិធីគេហទំព័រដ៏ស្មុគស្មាញ។ គម្រោងនេះសង្កត់ធ្ងន់ទៅលើការបង្កើតកម្មវិធី Server-Side Rendered React App ដែលទាញយកទិន្នន័យពីសេវាកម្មខ្នាតតូច ការយល់ដឹងអំពីការរចនាហេដ្ឋារចនាសម្ព័ន្ធនៅក្នុងក្រុមហ៊ុនសហគ្រាស និងការចែករំលែកកូដដែលអាចប្រើឡើងវិញបានតាមរយៈ Express តាមរយៈកញ្ចប់ NPM ផ្ទាល់ខ្លួន។ ការធ្វើតេស្តហ្មត់ចត់ធានាថាសេវាកម្មនីមួយៗដំណើរការដូចបំណង ហើយការទំនាក់ទំនងទិន្នន័យប្រកបដោយប្រសិទ្ធភាពរវាងសេវាកម្មត្រូវបានសម្រេចដោយប្រើ Event bus ដែលមានល្បឿនលឿន។ គោលការណ៍ណែនាំរបស់គម្រោងគឺរក្សានូវស្តង់ដារខ្ពស់នៃកូដកម្រិតផលិតកម្មដោយមិនទុកកន្លែងសម្រាប់ផ្លូវកាត់ឡើយ។",
+        "images": [
+          "images/portfolio/adventure/ticket1.png"
+
+        ],
+        "url": "https://github.com/SoraKukyo/Learning-microservices/tree/master",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain colored",
+            "name": "Javascript"
+          },
+          {
+            "class": "devicon-docker-plain colored",
+            "name": "Docker"
+          },
+          {
+            "class": "devicon-kubernetes-plain colored",
+            "name": "Kubernetes"
+          },
+          {
+            "class": "devicon-amazonwebservices-original colored",
+            "name": "Amazon Web Services"
+          },
+          {
+            "class": "devicon-bootstrap-plain colored",
+            "name": "Bootstrap"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "វិទ្យាស្ថានបច្ចេកវិទ្យាគីរីរម្យ | កម្មវិធី Bootcamp ពិសេស",
+        "title": "Full Stack Team Lead",
+        "years": "ឧសភា 2023 - បច្ចុប្បន្ន",
+        "mainTech": [
+          "ReactJS, Spring boot"
+        ],
+        "technologies": [
+          "REST API",
+          "React JS",
+          "JavaScript",
+          "Typescript",
+          "Tailwind CSS",
+          "Java",
+          "Spring boot",
+          "Postgresql",
+          "Docker"
+        ]
+      },
+      {
+        "company": "A2A Town Cambodia Co., Ltd | ភ្នំពេញ ប្រទេសកម្ពុជា",
+        "title": "Odoo Technical Advisor",
+        "years": "2022 - បច្ចុប្បន្ន",
+        "mainTech": [
+          "Odoo, Python"
+        ],
+        "technologies": [
+          "XML",
+          "Javascript",
+          "Bootstrap",
+          "Python",
+          "ORM",
+          "Postgresql"
+        ]
+      },
+      {
+        "company": "Earlyphant Virtual Company | កំពង់ស្ពឺ ប្រទេសកម្ពុជា",
+        "title": "Senior Full Stack Developer",
+        "years": "2021 - មិថុនា 2023",
+        "mainTech": [
+          "Odoo, Python, REST API"
+        ],
+        "technologies": [
+          "XML",
+          "Javascript",
+          "Bootstrap",
+          "Python",
+          "ORM",
+          "Postgresql"
+        ]
+      },
+      {
+        "company": "ក្រុមហនុមាន | ភ្នំពេញ ប្រទេសកម្ពុជា",
+        "title": "Javascript Frontend Developer Lead",
+        "years": "មេសា 2023 - មិថុនា 2023",
+        "mainTech": [
+          "Javascript"
+        ],
+        "technologies": [
+          
+          "HTML 5",
+          "CSS3",
+          "Javascript",
+          "React JS",
+          "Next JS",
+          "Tailwind CSS",
+          "Webpack"
+        ]
+      },
+      {
+        "company": "ក្រុមហ៊ុនសិង្ហបុរី | ភ្នំពេញ ប្រទេសកម្ពុជា",
+        "title": "Javascript Frontend Developer Lead",
+        "years": "2022 - កុម្ភៈ 2023",
+        "mainTech": [
+          "Javascript"
+        ],
+        "technologies": [
+          "HTML5",
+          "CSS3",
+         "React JS",
+          "Next JS",
+          "Tailwind CSS",
+          "Webpack",
+          "AJAX",
+          "REST API",
+          "Redux"
+        ]
+      },
+      {
+        "company": "ក្រុមហ៊ុនតៃវ៉ាន់ | ភ្នំពេញ ប្រទេសកម្ពុជា",
+        "title": "Javascript Frontend Developer",
+        "years": "មេសា 2021 - កញ្ញា 2021",
+        "mainTech": [
+          "Javascript"
+        ],
+        "technologies": [
+          "HTML5",
+          "CSS3",
+          "Tailwind CSS",
+          "React JS",
+          "Recoil JS"
+        ]
+      },
+      {
+        "company": "A2A Town Cambodia Co., Ltd | ភ្នំពេញ ប្រទេសកម្ពុជា",
+        "title": "Backend Developer and Server Engineer",
+        "years": "មីនា 2021 - កញ្ញា 2021",
+        "mainTech": [
+          "Odoo, Python"
+        ],
+        "technologies": [
+          "XML",
+          "Javascript",
+          "Bootstrap",
+          "Python",
+          "ORM",
+          "Postgresql",
+          "Nginx",
+          "Linux Server"
+        ]
+      }
+     
+    ]
+  }

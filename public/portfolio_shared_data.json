@@ -1,0 +1,124 @@
+{
+    "basic_info": {
+      "name": "Phalla Borormey",
+      "titles": [ "Senior Fullstack Developer", "ERP consultants", "Senior ERP Developer", "Mobile App Developer" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/SoraKukyo",
+          "class": "fab fa-github"
+        }
+       
+      ],
+      "image": "myProfile.png"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain colored",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain colored",
+          "level": "95"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-original colored",
+          "level": "80"
+        },
+        {
+          "name": "TypeScript",
+          "class": "devicon-typescript-plain colored",
+          "level": "90"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain colored",
+          "level": "70"
+        },
+        {
+          "name": "Sass",
+          "class": "devicon-sass-original colored",
+          "level": "75"
+        },
+        {
+          "name": "Tailwind CSS",
+          "class": "devicon-tailwindcss-plain colored",
+          "level": "85"
+        },
+        {
+          "name": "Jquery",
+          "class": "devicon-jquery-plain colored",
+          "level": "60"
+        },
+        {
+          "name": "Vue Js",
+          "class": "devicon-vuejs-plain colored",
+          "level": "65"
+        },
+        {
+          "name": "Next Js",
+          "class": "devicon-nextjs-original",
+          "level": "60"
+        },
+        {
+          "name": "Node Js",
+          "class": "devicon-nodejs-plain colored",
+          "level": "60"
+        },
+        {
+          "name": "Express Js",
+          "class": "devicon-express-original-wordmark",
+          "level": "60"
+        },
+        {
+          "name": "Python",
+          "class": "devicon-python-plain colored",
+          "level": "60"
+        },
+        {
+          "name": "Django",
+          "class": "devicon-django-plain",
+          "level": "60"
+        },
+        {
+          "name": "Postgresql",
+          "class": "devicon-postgresql-plain colored",
+          "level": "60"
+        },
+        {
+          "name": "Mysql",
+          "class": "devicon-mysql-plain colored",
+          "level": "60"
+        },
+        {
+          "name": "Firebase",
+          "class": "devicon-firebase-plain colored",
+          "level": "60"
+        },
+        {
+          "name": "MongoDB",
+          "class": "devicon-mongodb-plain colored",
+          "level": "60"
+        },
+        {
+          "name": "Docker",
+          "class": "devicon-docker-plain colored",
+          "level": "60"
+        },
+        {
+          "name": "Kubernetes",
+          "class": "devicon-kubernetes-plain colored",
+          "level": "60"
+        },
+        {
+          "name": "Git",
+          "class": "devicon-git-plain colored",
+          "level": "60"
+        }
+      ]
+    }
+  }

@@ -1,0 +1,276 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I'm Phalla Borormey. As a full-stack software engineer, I have the unique ability to bring ideas to life from both the front-end and back-end perspectives. With a strong foundation in software development, I specialize in building robust, scalable, and user-friendly applications that meet the needs of clients and end-users alike.",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Fullstack Javascript Framework foundation",
+        "startDate": "2020",
+        "description": "These applications represent the building blocks of my journey as a software developer, starting from my first year as a student. They showcase my relentless pursuit of knowledge, as I honed my skills through a combination of YouTube tutorials, Udemy courses, and dedicated study of software development books. Each application embodies foundational concepts in JavaScript frontend and backend frameworks, illustrating my commitment to mastering the core principles of web development.",
+        "images": [
+          "images/portfolio/animal-shelter/airbnb3.png",
+          "images/portfolio/animal-shelter/airbnb2.png",
+          "images/portfolio/animal-shelter/airbnb1.png",
+          "images/portfolio/animal-shelter/netflix.png",
+          "images/portfolio/animal-shelter/amazon.png",
+          "images/portfolio/animal-shelter/tetris.png",
+          "images/portfolio/animal-shelter/trello.png",
+          "images/portfolio/animal-shelter/todoList1.png",
+          "images/portfolio/animal-shelter/todoList2.png",
+          "images/portfolio/animal-shelter/natour1.jpg",
+          "images/portfolio/animal-shelter/natour2.png",
+          "images/portfolio/animal-shelter/natour3.png"
+        ],
+        "url": "https://github.com/SoraKukyo/fullstack-js-learning",  
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-css3-plain colored",
+            "name": "CSS3"
+          },
+          {
+            "class": "devicon-typescript-plain colored",
+            "name": "Typescript"
+          },
+          {
+            "class": "devicon-javascript-plain colored",
+            "name": "Javascript"
+          },
+          {
+            "class": "devicon-react-original colored",
+            "name": "React JS"
+          },
+          {
+            "class": "devicon-vuejs-plain colored",
+            "name": "Vue JS"
+          },
+          {
+            "class": "devicon-bootstrap-plain colored",
+            "name": "Bootstrap"
+          },
+          {
+            "class": "devicon-tailwindcss-plain colored",
+            "name": "Tailwind CSS"
+          },
+          {
+            "class": "devicon-nodejs-plain colored",
+            "name": "Node JS"
+          },
+          {
+            "class": "devicon-express-original colored",
+            "name": "EXPRESS JS"
+          },
+          {
+            "class": "devicon-mongodb-plain colored",
+            "name": "MongoDB"
+          },
+          {
+            "class": "devicon-postgresql-plain colored",
+            "name": "Postgresql"
+          }
+        ]
+      },
+      {
+        "title": "Odoo ERP System",
+        "startDate": "2021",
+        "description": "I successfully managed and took a leadership role in one of the most significant projects of my professional journey. My responsibilities included supervising the development of a substantial ERP system and orchestrating the migration of more than 1 million records across approximately 10 companies. This project stands as a notable success, considering that previous attempts to accomplish it had encountered failure.",
+        "images": [
+          "images/portfolio/photography/odoo1.jpg",
+          "images/portfolio/photography/odoo2.png",
+          "images/portfolio/photography/odoo3.png",
+          "images/portfolio/photography/odoo4.jpg",
+          "images/portfolio/photography/odoo5.png",
+          "images/portfolio/photography/odoo6.png"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain colored",
+            "name": "Javascript"
+          },
+          {
+            "class": "devicon-bootstrap-plain colored",
+            "name": "Bootstrap"
+          },
+          {
+            "class": "devicon-python-plain colored",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-nginx-original colored",
+            "name": "Nginx"
+          },
+          {
+            "class": "devicon-postgresql-plain colored",
+            "name": "Postgresql"
+          }
+        ]
+      },
+      {
+        "title": "A Microservices Ticket System With Fullstack Javascript",
+        "startDate": "2023",
+        "description": "This project focuses on mastering the architecture of large, scalable apps through microservices. It includes deploying multi-service apps to the cloud using Docker and Kubernetes, solving concurrency challenges in distributed systems, and leveraging JavaScript skills to construct intricate web applications. The project emphasizes building a Server-Side Rendered React App that retrieves data from microservices, understanding infrastructure design in enterprise companies, and sharing reusable code across Express servers via custom NPM packages. Thorough testing ensures that each service functions as intended, and efficient data communication between services is achieved using a lightning-fast event bus. The project's guiding principle is to maintain a high standard of production-level code, leaving no room for shortcuts.",
+        "images": [
+          "images/portfolio/adventure/ticket1.png"
+
+        ],
+        "url": "https://github.com/SoraKukyo/Learning-microservices/tree/master",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain colored",
+            "name": "Javascript"
+          },
+          {
+            "class": "devicon-docker-plain colored",
+            "name": "Docker"
+          },
+          {
+            "class": "devicon-kubernetes-plain colored",
+            "name": "Kubernetes"
+          },
+          {
+            "class": "devicon-amazonwebservices-original colored",
+            "name": "Amazon Web Services"
+          },
+          {
+            "class": "devicon-bootstrap-plain colored",
+            "name": "Bootstrap"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Kirirom Institute of technology | Special Bootcamp Program",
+        "title": "Full Stack Team Lead",
+        "years": "May 2023 - Present",
+        "mainTech": [
+          "ReactJS, Spring boot"
+        ],
+        "technologies": [
+          "REST API",
+          "React JS",
+          "JavaScript",
+          "Typescript",
+          "Tailwind CSS",
+          "Java",
+          "Spring boot",
+          "Postgresql",
+          "Docker"
+        ]
+      },
+      {
+        "company": "A2A Town Cambodia Co., Ltd | Phnom Penh, Cambodia",
+        "title": "Odoo Technical Advisor",
+        "years": "2022 - Present",
+        "mainTech": [
+          "Odoo, Python"
+        ],
+        "technologies": [
+          "XML",
+          "Javascript",
+          "Bootstrap",
+          "Python",
+          "ORM",
+          "Postgresql"
+        ]
+      },
+      {
+        "company": "Earlyphant Virtual Company | Kompong Speu, Cambodia",
+        "title": "Senior Full Stack Developer",
+        "years": "2021 - June 2023",
+        "mainTech": [
+          "Odoo, Python, REST API"
+        ],
+        "technologies": [
+          "XML",
+          "Javascript",
+          "Bootstrap",
+          "Python",
+          "ORM",
+          "Postgresql"
+        ]
+      },
+      {
+        "company": "Hanuman Group | HQ in Phnom Penh, Cambodia",
+        "title": "Javascript Frontend Developer Lead",
+        "years": "April 2023 - June 2023",
+        "mainTech": [
+          "Javascript"
+        ],
+        "technologies": [
+          
+          "HTML 5",
+          "CSS3",
+          "Javascript",
+          "React JS",
+          "Next JS",
+          "Tailwind CSS",
+          "Webpack"
+        ]
+      },
+      {
+        "company": "A Singapore Company | HQ in Phnom Penh, Cambodia",
+        "title": "Javascript Frontend Developer Lead",
+        "years": "2022 - February 2023",
+        "mainTech": [
+          "Javascript"
+        ],
+        "technologies": [
+          "HTML5",
+          "CSS3",
+         "React JS",
+          "Next JS",
+          "Tailwind CSS",
+          "Webpack",
+          "AJAX",
+          "REST API",
+          "Redux"
+        ]
+      },
+      {
+        "company": "A Taiwan Company | HQ in Phnom Penh, Cambodia",
+        "title": "Javascript Frontend Developer",
+        "years": "April 2021 - September 2021",
+        "mainTech": [
+          "Javascript"
+        ],
+        "technologies": [
+          "HTML5",
+          "CSS3",
+          "Tailwind CSS",
+          "React JS",
+          "Recoil JS"
+        ]
+      },
+      {
+        "company": "A2A Town Cambodia Co., Ltd | Phnom Penh, Cambodia",
+        "title": "Backend Developer and Server Engineer",
+        "years": "March 2021 - September 2021",
+        "mainTech": [
+          "Odoo, Python"
+        ],
+        "technologies": [
+          "XML",
+          "Javascript",
+          "Bootstrap",
+          "Python",
+          "ORM",
+          "Postgresql",
+          "Nginx",
+          "Linux Server"
+        ]
+      }
+     
+    ]
+  }
